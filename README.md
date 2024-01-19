@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Manoj Padala</h1>
 <h3 align="center">Data Engineer with 2 years of industry experience at Cognizant, currently pursuing a Masters in Data Science at George Washington University. Passionate about leveraging data in diverse industry roles. Based in Arlington, Virginia.</h3>
 
-<img align = “right” alt=“codinganimation” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw2aO2KQ47DULnZZU5OloXBR&ust=1705712429171000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDct42g6IMDFQAAAAAdAAAAABAD”>
-
+<img align="right" alt="coding animation" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
