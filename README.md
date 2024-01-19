@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Data oriented projects**
 
--💼 I’m looking for an internship in ** Data Industry **
+- 💼 I’m looking for an internship in **Data Industry**
 
 - 📫 How to reach me **manojpadala1634@gmail.com**
 <h3 align="left">Connect with me:</h3>
