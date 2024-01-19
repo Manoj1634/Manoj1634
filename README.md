@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Manoj Padala</h1>
-<h3 align="center">Data Engineer with 2 years of industry experience at Cognizant, currently pursuing a Masters in Data Science at George Washington University. Passionate about leveraging data in diverse industry roles. Based in Arlington, Virginia.</h3>
+<h3 align="center">Data Engineer with 2 years of industry experience for AIG, currently pursuing a Masters in Data Science at George Washington University. Passionate about leveraging data in diverse industry roles. Based in Arlington, Virginia.</h3>
 
 <img align="right" alt="coding animation" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
