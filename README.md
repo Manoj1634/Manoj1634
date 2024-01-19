@@ -4,9 +4,7 @@
 
 <img align = “right” alt=“codinganimation” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw2aO2KQ47DULnZZU5OloXBR&ust=1705712429171000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDct42g6IMDFQAAAAAdAAAAABAD”>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj1634&label=Profile%20views&color=0e75b6&style=flat" alt="manoj1634" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoj1634" alt="manoj1634" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
