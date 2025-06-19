@@ -1,22 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Manoj Padala</h1>
-<h3 align="center">Data Engineer with 2 years of industry experience for AIG, currently pursuing a Masters in Data Science at George Washington University. Passionate about leveraging data in diverse industry roles. Based in Arlington, Virginia.</h3>
+<h3 align="center"> Data Scientist with 4+ years of experience in building ML, AI and ETL solutions. Graudated with Masters Degree in Data Science</h3>
 
 <img align="right" alt="coding animation" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data oriented projects**
 
-- 💼 I’m looking for an internship in **Data Industry**
+- 💼 I’m looking for a Ful Time role in **Data Industry**
 
 - 📫 How to reach me **manojpadala1634@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manoj padala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj padala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manoj-487506178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj padala" height="30" width="40" /></a>
 </p>
 
 
