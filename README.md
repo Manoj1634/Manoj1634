@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Manoj Padala</h1>
-<h3 align="center"> Data Scientist with 4+ years of experience in building ML, AI and ETL solutions. Graudated with Masters Degree in Data Science</h3>
+<h3 align="center"> Data Scientist with 4+ years of experience in building ML, AI and data solutions. Graudated with Masters Degree in Data Science</h3>
 
 <img align="right" alt="coding animation" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 👯 I’m looking to collaborate on **Data oriented projects**
+- 👯 I’m looking to collaborate on **ML and AI projects**
 
-- 💼 I’m looking for a Full Time role in **Data Industry**
+- Currently building agentic AI for **Service Industries**, Launching Soon!!
 
 - 📫 How to reach me **manojpadala1634@gmail.com**
 <h3 align="left">Connect with me:</h3>
