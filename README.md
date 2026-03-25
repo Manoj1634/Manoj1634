@@ -5,8 +5,6 @@
 
 - Currently **AI Solutions Engineer @ Nymbl** — shipped an enterprise MCP-ready application to production driving millions in sales
 
-- Secured **2nd place in a Meta-sponsored hackathon** — [Next Mission](https://github.com/GC-MJ-GITHUB-ORG/next-mission)
-
 - I build **agentic AI platforms, RAG pipelines, and LLM-powered products**
 
 - How to reach me **manojpadala789@gmail.com**
