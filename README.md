@@ -15,7 +15,7 @@ M.S. Data Science, George Washington University (3.91 GPA) | 5+ years shipping M
 
 ## Currently
 
-**AI Solutions Engineer @ Nymbl** — Architecting an MCP-ready agent platform on AWS, building centralized knowledge bases with Qdrant, and delivering agentic workflows with full observability (LangSmith + OpenTelemetry).
+**AI Solutions Engineer @ Nymbl** — Shipped a full enterprise MCP-ready application to production that drove millions in sales, built on Qdrant knowledge bases and agentic systems leveraging both MCP and RAG. Deployed on Azure with full observability (LangSmith + OpenTelemetry).
 
 ## Notable
 
