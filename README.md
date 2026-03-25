@@ -38,6 +38,24 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Tech Stack:</h3>
+
+**LLM & Agents:** LangChain, LangGraph, LlamaIndex, CrewAI, LangSmith, Model Context Protocol (MCP)
+
+**ML/DL:** PyTorch, TensorFlow, Hugging Face, scikit-learn, spaCy, NLTK, SentenceTransformers
+
+**Techniques:** RAG, QLoRA/PEFT fine-tuning, prompt engineering, multi-agent orchestration, chain-of-thought
+
+**Vector & Data:** Pinecone, Qdrant, pgvector, MongoDB, PostgreSQL, Redis, Redshift
+
+**Cloud & Infra:** AWS (EKS, ECS, SageMaker, Bedrock, Lambda, S3), Azure, Docker, GitHub Actions, Terraform
+
+**Observability:** LangSmith, OpenTelemetry, MLflow, W&B, CloudWatch, Prometheus, Grafana
+
+**Languages:** Python, SQL, R
+
+---
+
 <h3 align="left">Experience:</h3>
 
 | Role | Company | Focus |
