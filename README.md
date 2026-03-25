@@ -1,47 +1,46 @@
-# Manoj Padala
+<h1 align="center">Hi, I'm Manoj Padala</h1>
+<h3 align="center">AI/ML Engineer with 5+ years of experience building production LLM systems, agentic platforms, and RAG pipelines. M.S. Data Science from George Washington University (3.91 GPA)</h3>
 
-**AI/ML Engineer** | Building production LLM systems, agentic platforms, and RAG pipelines
+<img align="right" alt="coding animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-M.S. Data Science, George Washington University (3.91 GPA) | 5+ years shipping ML/AI in production
+- Currently **AI Solutions Engineer @ Nymbl** — shipped an enterprise MCP-ready application to production driving millions in sales
 
----
+- Secured **2nd place in a Meta-sponsored hackathon** — [Next Mission](https://github.com/GC-MJ-GITHUB-ORG/next-mission)
 
-## What I Build
+- I build **agentic AI platforms, RAG pipelines, and LLM-powered products**
 
-- **Agentic AI platforms** — Multi-agent systems with LangGraph, human-in-the-loop controls, durable execution, and production observability
-- **RAG pipelines** — Semantic search and retrieval over enterprise knowledge bases using Pinecone, Qdrant, and pgvector
-- **LLM-powered products** — From financial analysis copilots to AI grading systems to automated customer intake bots
-- **MCP integrations** — Standardized tool invocation and interoperability for LLM agents
+- How to reach me **manojpadala789@gmail.com**
 
-## Currently
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/manoj-487506178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj padala" height="30" width="40" /></a>
+</p>
 
-**AI Solutions Engineer @ Nymbl** — Shipped a full enterprise MCP-ready application to production that drove millions in sales, built on Qdrant knowledge bases and agentic systems leveraging both MCP and RAG. Deployed on Azure with full observability (LangSmith + OpenTelemetry).
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.16.0/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
 
-## Notable
-
-**2nd Place, Meta Hackathon** — [Next Mission](https://github.com/GC-MJ-GITHUB-ORG/next-mission): Full-stack AI platform for veterans using Meta LLaMA 4, MCP server, resume generation, mentor matching, and mental health support.
-
----
-
-## Tech Stack
-
-**LLM & Agents:** LangChain, LangGraph, LlamaIndex, CrewAI, LangSmith, Model Context Protocol (MCP)
-
-**ML/DL:** PyTorch, TensorFlow, Hugging Face, scikit-learn, spaCy, NLTK, SentenceTransformers
-
-**Techniques:** RAG, QLoRA/PEFT fine-tuning, prompt engineering, multi-agent orchestration, chain-of-thought
-
-**Vector & Data:** Pinecone, Qdrant, pgvector, MongoDB, PostgreSQL, Redis, Redshift
-
-**Cloud & Infra:** AWS (EKS, ECS, SageMaker, Bedrock, Lambda, S3), Docker, GitHub Actions, Terraform
-
-**Observability:** LangSmith, OpenTelemetry, MLflow, W&B, CloudWatch, Prometheus, Grafana
-
-**Languages:** Python, SQL, R
-
----
-
-## Experience
+<h3 align="left">Experience:</h3>
 
 | Role | Company | Focus |
 |------|---------|-------|
@@ -53,15 +52,7 @@ M.S. Data Science, George Washington University (3.91 GPA) | 5+ years shipping M
 | Data Analyst - NLP | D.C. Witness | RAG pipeline for crime data, 95% precision |
 | Data Science Engineer | Cognizant | Fraud detection (42% precision lift), 80M+ record pipelines |
 
----
-
-## GitHub Stats
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Manoj1634&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj1634&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manoj1634&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj1634&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
-
----
-
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/manoj-487506178/) | [GitHub Org](https://github.com/GC-MJ-GITHUB-ORG) | manojpadala789@gmail.com
