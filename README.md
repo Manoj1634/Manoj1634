@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Manoj Padala</h1>
 <h3 align="center">AI/ML Engineer with 5+ years of experience building production LLM systems, agentic platforms, and RAG pipelines. M.S. Data Science from George Washington University (3.91 GPA)</h3>
 
+
+<h3 align="center">Focused on building systems that reduce human involvement in repetitive and operational tasks.</h3>
+<h3 align="center">If a human is repeating a task, I see it as a system waiting to be automated. I build AI so humans can stop acting like machines.<h3 align="center">
 <img align="right" alt="coding animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - Currently **AI Solutions Engineer @ Nymbl** — shipped an enterprise MCP-ready application to production driving millions in sales
